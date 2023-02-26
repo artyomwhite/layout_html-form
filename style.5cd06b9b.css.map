@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,aACE,aAAc,CACd,kBACF,CAEA,gBACE,gBAAiB,CACjB,kBACF","file":"style.5cd06b9b.css","sourceRoot":"..\\src","sourcesContent":[".input-label {\r\n  display: block;\r\n  margin-bottom: 10px;\r\n}\r\n\r\n.form-container {\r\n  padding-bottom: 0;\r\n  margin-bottom: 20px;\r\n}\r\n"]}
